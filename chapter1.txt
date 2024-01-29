@@ -5,3 +5,4 @@ Extra line 1
 Extra line 2
 Extra line 3
 Git was eager to explore new places.
+Test hook

@@ -3,3 +3,4 @@ Git was well-known for his curiosity and eagerness to learn new things.
 He had one dream - to explore the mysterious world of Version Control.
 Extra line 1
 Extra line 2
+Extra line 3
